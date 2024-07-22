@@ -14,6 +14,14 @@ ingested our data in a Raw Format to MATCH_RAW_TABLE Table:
 
 <img width="752" alt="MATCH_RAW_TABLE" src="https://github.com/user-attachments/assets/4c207563-6ef0-4a04-9e45-20aa5a2b91e4">
 
+* A raw json file included:
+  
+![1](https://github.com/user-attachments/assets/81b684ea-da38-4d1d-9c5c-89c7d3fc6908)
+![2](https://github.com/user-attachments/assets/074fdf76-17dd-4e37-b147-cc85bffda6d4)
+![5](https://github.com/user-attachments/assets/60bee606-087b-4d57-b392-77c5a2eb462f)
+
+
+
 2. Clean Layer: The clean layer is responsible for cleaning and transforming the raw data. It includes tasks to create clean tables that are more suitable for analysis.
    * Created Three Tables in Clean Schema (Layer): Concerning Player , Match_detail , Delivery Table.
      <img width="764" alt="Clean_Layer" src="https://github.com/user-attachments/assets/59b9052f-1cf4-428d-a0ec-3a73c5e69cf6">
